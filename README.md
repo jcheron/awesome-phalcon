@@ -45,7 +45,7 @@ Please take a quick gander at the [contribution guidelines][contrib-1] first. Th
     - [Talks](#talks)
     - [Templating](#templating)
     - [Validators](#validators)
-    - [Visual components](#visual-conponents)
+    - [Visual components](#visual-components)
     - [Web Tools](#web-tools)
 
 - [Server Applications](#server-applications)

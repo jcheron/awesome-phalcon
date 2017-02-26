@@ -45,6 +45,7 @@ Please take a quick gander at the [contribution guidelines][contrib-1] first. Th
     - [Talks](#talks)
     - [Templating](#templating)
     - [Validators](#validators)
+    - [Visual components](#visual-conponents)
     - [Web Tools](#web-tools)
 
 - [Server Applications](#server-applications)
@@ -329,6 +330,12 @@ Please take a quick gander at the [contribution guidelines][contrib-1] first. Th
 * [PHP Request Validator](https://github.com/progsmile/request-validator) - Easy PHP validation with the Phalcon support
 * [zvps-phalcon-validators](https://github.com/zVPS/zvps-phalcon-validators) - Additional form and data validators extending the inbuilt Phalcon validate interface
 
+
+## Visual components
+
+*Visual components libraries.*
+
+* [phpMv-UI toolkit](https://github.com/phpMv/phpMv-UI) - jQuery, Twitter Bootstrap and Semantic-UI components for Phalcon PHP Framework
 
 ## Web Tools
 
